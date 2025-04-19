@@ -1,10 +1,18 @@
 # SPIFF - Simple Protoype Implementation For Flowcharts
 
+[Shut up and let me demo it already](https://alexn-cyber.github.io/spiff/)
+
 A vibe-coded garbage throaway code toy tool I wrote to scratch the itch of wanting to create manual layout SVG diagrams as code.
 
 Because nobody, not even Pichkr, would give me that.
 
 This does what I want and I'm sharing it for other game masters to use for preparing node graphs and relationship graphs with simple manual layouts.
+
+## Examples
+
+1. [A location crawl node graph](https://alexn-cyber.github.io/spiff/?dsl=U2FwcGVyIENhbXAgLT4gTkUgLT4gRm9nIEZvcmVzdApTYXBwZXIgQ2FtcCAtPiBOIC0-IEFiYW5kb25lZCBGYXJtIFthcnJvdz1ib3RoXQpBYmFuZG9uZWQgRmFybSAtPiBOIC0-IExha2UKTGFrZSAtPiBOIC0-IERla3Vtb2RvIFZpbGxhZ2UgW2Fycm93PWJvdGhdCkZvZyBGb3Jlc3QgLT4gTiAtPiBHaWFudCBTcGlkZXIgQ2xpZmZzIFthcnJvdz1ib3RoXQpHaWFudCBTcGlkZXIgQ2xpZmZzIC0-IE4gLT4gUmFkaWFuY2UgUHJpb3J5IFthcnJvdz1ib3RoXQpTYXBwZXIgQ2FtcCAtPiBOVyAtPiBCb2dzd2FtcCBbYXJyb3c9Ym90aF0KQm9nc3dhbXAgLT4gTiAtPiBBY2lkaWMgSGlyb2tpIEhvbGxvdyBbYXJyb3c9Ym90aF0KQWNpZGljIEhpcm9raSBIb2xsb3cgLT4gTiAtPiBHTExTRUMgW2Fycm93PWJvdGhdCkFiYW5kb25lZCBGYXJtIC0-IFcgLT4gQm9nc3dhbXAKRm9nIEZvcmVzdCAtPiBXIC0-IEFiYW5kb25lZCBGYXJtCkFjaWRpYyBIaXJva2kgSG9sbG93IC0-IFNFIC0-IEFiYW5kb25lZCBGYXJtCkRla3Vtb2RvIFZpbGxhZ2UgLT4gU0UgLT4gR2lhbnQgU3BpZGVyIENsaWZmcwpMYWtlIC0-IE5XIC0-IEdMTFNFQwpHTExTRUMgLT4gRSAtPiBEZWt1bW9kbyBWaWxsYWdlIFthcnJvdz1ib3RoXQpCb2dzd2FtcCAtPiBFIC0-IEZvZyBGb3Jlc3QgW2N1cnZlPXVwIGFycm93PWJvdGhd)
+1. [Extremely partial world map](https://alexn-cyber.github.io/spiff/?dsl=VVMgLT4gTiAtPiBDYW5hZGEKQ2FuYWRhIC0tPiBXIC0-IFJ1c3NpYQpSdXNzaWEgLT4gU0UgLT4gSmFwYW4KSmFwYW4gLT4gVyAtPiBTb3V0aCBLb3JlYQpTb3V0aCBLb3JlYSAtPiBXIC0-IENoaW5hCkNoaW5hIC0-IFNXIC0-IEluZGlhCkNoaW5hIC0-IE4gLT4gUnVzc2lhCkluZGlhIC0-IFNFIC0-IEF1c3RyYWxpYQpBdXN0cmFsaWEgLT4gU0UgLT4gTmV3IFplYWxhbmQKTmV3IFplYWxhbmQgLT4gTiAtPiBWYW51YXR1ClZhbnVhdHUgLT4gRSAtPiBGaWppCkZpamkgLS0-IE5FIC0-IFVTCg)
+1. [NPC relationship chart](https://alexn-cyber.github.io/spiff/?dsl=TWFydmluIC0-IE4gLT4gRG91ZwpEb3VnIC0-IE4gLT4gVmFsZXJpYQpWYWxlcmlhIC0-IEUgLT4gTG9yZCBIZWN0b3IgW2Fycm93PWJvdGhdCkxvcmQgSGVjdG9yIC0-IEUgLT4gTXIgU3BpZmYgW2Fycm93PWJvdGhdClZhbGVyaWEgLS0-IFcgLT4gSGFycnVuIFthcnJvdz1ib3RoXQpIYXJydW4gLS0-IFNXIC0-IEJlcnRoYQpIYXJydW4gLS0-IFMgLT4gU2Fsb21lCkhhcnJ1biAtPiBTRSAtPiBUYW5rYXJkCg) - admittedly this is why I will want to be able to label these arrows later on
 
 ## How to use?
 
